@@ -3,9 +3,12 @@
 /public/storage
 /storage/*.key
 /vendor
+.vscode/
+.idea/
 .env
 .env.backup
 .phpunit.result.cache
+.rnd
 docker-compose.override.yml
 Homestead.json
 Homestead.yaml

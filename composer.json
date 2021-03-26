@@ -36,6 +36,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
+            "Hackdelta\\LaravelMpesa\\": "app/Packages/HackDelta/Laravel-Mpesa/src/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
         }
