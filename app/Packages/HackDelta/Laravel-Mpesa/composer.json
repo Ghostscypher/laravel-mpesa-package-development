@@ -34,7 +34,7 @@
                 "Hackdelta\\LaravelMpesa\\LaravelMpesaServiceProvider"
             ],
             "aliases": {
-                "LaravelMpesa" : "Hackdelta\\LaravelMpesa\\MultitenancyFacade"
+                "Mpesa" : "Hackdelta\\LaravelMpesa\\Facades\\LaravelMpesaFacacde"
             }
         }
     },

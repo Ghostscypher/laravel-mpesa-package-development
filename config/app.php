@@ -165,6 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Hackdelta\LaravelMpesa\LaravelMpesaServiceProvider::class,
 
         /*
          * Application Service Providers...
